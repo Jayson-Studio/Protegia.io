@@ -43,7 +43,6 @@ Protegia is a React + TypeScript single-page app built in VScode deployed on Net
 | Edge functions | Deno runtime (`supabase/functions/make-server-b8271a5d/`) |
 | Analytics | Mixpanel (`mixpanel-browser`) |
 | Deployment | Netlify |
-| Design source | Figma Make + Protegia design system (Figma) |
 | Component dev | Storybook |
 
 ---
