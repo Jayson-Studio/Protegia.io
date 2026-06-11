@@ -53,8 +53,6 @@ Protegia is a React + TypeScript single-page app built in Figma Make, deployed o
 
 ## Screenshots
 
-> Drop images into `docs/screenshots/` using the filenames below and they'll render automatically.
-
 ### Home / Space
 ![Protegia home space](docs/screenshots/home-space.png)
 
