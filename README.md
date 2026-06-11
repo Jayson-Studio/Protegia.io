@@ -1,8 +1,6 @@
 # 🍃 Protegia.io
 
-> Personalized digital spaces that help you focus on what actually matters — to you.
-
-Protegia invites users to step into a fictional world where story is experienced, not rushed. Through short narrative beats, atmospheric soundscapes, and visual moments, it offers a calm, reflective alternative to traditional content feeds. Protegia is a story you consume—and a world that only opens to those willing to slow down, reflect, and move forward.
+[Protegia](https://protegia.io/) invites users to step into a fictional world where story is experienced, not rushed. Through short narrative beats, atmospheric soundscapes, and visual moments, it offers a calm, reflective alternative to traditional content feeds. Protegia is a story you consume—and a world that only opens to those willing to slow down, reflect, and move forward.
 
 ---
 
@@ -19,7 +17,7 @@ Protegia invites users to step into a fictional world where story is experienced
 
 ## Infrastructure & Tech Stack
 
-Protegia is a React + TypeScript single-page app built in Figma Make, deployed on Netlify, with a Supabase backend.
+Protegia is a React + TypeScript single-page app built in VScode deployed on Netlify, with a Supabase backend.
 
 ### Frontend
 
@@ -48,28 +46,17 @@ Protegia is a React + TypeScript single-page app built in Figma Make, deployed o
 | Design source | Figma Make + Protegia design system (Figma) |
 | Component dev | Storybook |
 
-
 ---
 
 ## Screenshots
 
+> Drop images into `docs/screenshots/` using the filenames below and they'll render automatically.
+
 ### Home / Space
-![Protegia home space](docs/screenshots/home-space.png)
+![Protegia home space](docs/Homepage.jpg)
+
+### In Space
+![In space](docs/In-space.jpg)
 
 ### Widgets
-![Widget system](docs/screenshots/widgets.png)
-
-### Customize Space
-![Customize space](docs/screenshots/customize-space.png)
-
-### Map / World Exploration
-![Protegia map](docs/screenshots/map.png)
-
-### Onboarding
-![Onboarding flow](docs/screenshots/onboarding.png)
-
----
-
-
-# Protegia.io
-READ.Me describing Protegia private Repo
+![Widget system](docs/Widgets.jpg)
