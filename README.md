@@ -49,8 +49,6 @@ Protegia is a React + TypeScript single-page app built in VScode deployed on Net
 
 ## Screenshots
 
-> Drop images into `docs/screenshots/` using the filenames below and they'll render automatically.
-
 ### Home / Space
 ![Protegia home space](docs/Homepage.jpg)
 
