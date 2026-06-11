@@ -48,27 +48,6 @@ Protegia is a React + TypeScript single-page app built in Figma Make, deployed o
 | Design source | Figma Make + Protegia design system (Figma) |
 | Component dev | Storybook |
 
-### Project Structure
-
-```
-src/
-├── app/
-│   ├── App.tsx              # Root component, routes, global providers
-│   ├── components/          # Pages, navigation, widgets, UI
-│   │   ├── ui/              # shadcn/ui primitives
-│   │   ├── widgets/         # Widget components + widgetRegistry.ts
-│   │   └── figma/           # Figma-generated wrappers
-│   ├── pages/               # Full pages (CustomizeSpace, AirPlayPreview)
-│   └── utils/               # Contexts & utilities (AuthContext, supabaseClient)
-├── imports/                 # Figma Make auto-generated code — do not edit by hand
-├── assets/                  # Static assets
-├── stories/                 # Storybook stories
-└── styles/                  # Global CSS (tailwind, theme, fonts, index)
-supabase/
-└── functions/make-server-b8271a5d/   # Supabase edge functions (Deno)
-public/assets/map/           # Map tile assets
-unity/                       # Unity map prototype
-```
 
 ---
 
